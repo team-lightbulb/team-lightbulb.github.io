@@ -1,7 +1,7 @@
 # **Ground Rules**
 
 ## **Daily/Weekly Practices**
-*Team members will attend a weekly meeting on Sunday at 1pm. The present location is Starbuck's at san Mateo and Montgomery.
+*Team members will attend a weekly meeting on Saturday and/or Sunday at 1pm. Location to be determined by friday end of class. We can also meet after class on friday.
 
 *Daily SCRUM will be held at 7:50am on the Bootcamp campus.
 
