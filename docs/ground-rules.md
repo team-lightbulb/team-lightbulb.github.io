@@ -15,10 +15,17 @@
 *Presently, the team acknowledges the potential of it's members. We commit to maintaining a collaborative work environment,
 supporting the professional growth of our teammates, and celebrating our benchmark successes on a weekly basis at least.
 
+*
+
 
 
 ## [**Contact Information**](contact-info.md)
 *We commit to maintaining an accurate contact list.
+
+*Unless absolutely necessary, ALWAYS communicate between each other in written form, preferably on Slack. If it isn't it written somewhere it didn't happen.
+  *This applies if you are going to call an impromptu meeting.
+
+*Try to keep communications within reasonable hours of the day/night.
 
 
 
