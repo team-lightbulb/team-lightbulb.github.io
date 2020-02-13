@@ -10,12 +10,10 @@
 
 
 ## **Roles**
-*The team will make decisions by majority vote. In the event there is a conflict of opinion which cannot be resolved, the team will seek arbitration through the course instructor and Bootcamp success manager.
+* The team will make decisions by majority vote. In the event there is a conflict of opinion which cannot be resolved, the team will seek arbitration through the course instructor and Bootcamp success manager.
 
-*Presently, the team acknowledges the potential of it's members. We commit to maintaining a collaborative work environment,
+* Presently, the team acknowledges the potential of it's members. We commit to maintaining a collaborative work environment,
 supporting the professional growth of our teammates, and celebrating our benchmark successes on a weekly basis at least.
-
-*
 
 
 
