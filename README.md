@@ -12,3 +12,9 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 ### [Entity-Relationship-Diagram](erd.md)
 
 ### [User Stories](user-stories.md)
+
+## External Services
+
+- A database that can hold the posted messages and comments, that way they can be accessed by anyone and at any time.
+- Google authentication sign in for account verification.
+- Calendar to log the post dates.
