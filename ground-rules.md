@@ -43,3 +43,5 @@ supporting the professional growth of our teammates, and celebrating our benchma
 Agreed by : (NAME, DATE)
 
 Steven Zuniga 2.18.2020
+
+Jonathan Padilla 2-18-2020
