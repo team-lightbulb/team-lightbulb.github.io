@@ -11,4 +11,4 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 
 ### [Entity-Relationship-Diagram](erd.md)
 
-### [User Stories](C:\Users\steve\Desktop\bootcamp\projects\team-lightbulb.github.io)
+### [User Stories](user-stories.md)

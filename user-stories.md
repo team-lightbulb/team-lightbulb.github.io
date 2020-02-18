@@ -12,7 +12,7 @@ connect with other users may also be a potential networking opportunity for me a
 
 
 * As a user of this application I would be able to help others. I can share 
-intimate knowledge, such as licesing requirements or patent laws that will 
+intimate knowledge, such as licensing requirements or patent laws that will 
 be needed. I think this application will be a great platform for like minded people
 to post to forums with comments or suggestions to help others with their start 
 up businesses. As I user I can preemptively post information that I find useful or
