@@ -9,9 +9,17 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 - Commenters who would like to share their knowledge and information that they have gathered through personal experience.
 - Passive users browsing the site for ideas as well, but due to the open nature of the site direct interaction won't be necessary with the correct query and sufficient information established.
 
+### [User Stories](user-stories.md)
+
+
+
+## Entity Classes and ERD
+### [Keyword](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/Keyword.java)
+### [Thread](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/Thread.java)
+### [User](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/User.java)
+
 ### [Entity-Relationship-Diagram](erd.md)
 
-### [User Stories](user-stories.md)
 
 ## External Services
 
