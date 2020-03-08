@@ -3,6 +3,13 @@
 
 Lightbulb will be an app/program that encourages open forum discussion between users. Users being commenters and creators of original posts. The website will be primarily oriented towards individuals trying to crowdsource entrepreneurial ideas. The ideas can vary in range from simple questions on how or where to start, to more specific and niche questions pertaining to very specific problems. The site will hold an open forum system that is thread based. Where users can comment on each other's comments and rank their responses. Rather than creating categories directed at specific topics, the posts will be sorted through keywords tags that the post creator will tag to the original post.
 
+## Team Roster
+
+* **Jamie Smith** (505) 569-4244 J78Smith@msn.com
+* **Jonathan Padilla** (505) 948-9420 jpadilla8104@gmail.com
+* **Steven Zuniga** (909)532-4453 stevezun@gmail.com
+* **Richmond Baafi** (720)609-5334
+
 ## Intended Users
 
 - People trying to crowdsource ideas, gather information, or find ways of improvement for their project(s).
