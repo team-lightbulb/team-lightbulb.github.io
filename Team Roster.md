@@ -1,4 +1,4 @@
-## Team Roster
+## Team Contact Info.
 
 * **Jonathan Padilla** (505) 948-9420 jpadilla8104@gmail.com
 * **Steven Zuniga** (909) 532-4453 stevezun@gmail.com
