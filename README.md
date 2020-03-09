@@ -22,7 +22,7 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 
 ## Entity Classes and ERD
 ### [Keyword](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/Keyword.java)
-### [Comment](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/Thread.java)
+### [Comment](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/Comment.java)
 ### [User](https://github.com/team-lightbulb/server/blob/master/src/main/java/io/github/lightbulb/model/entity/User.java)
 
 ### [Entity-Relationship-Diagram](erd.md)
