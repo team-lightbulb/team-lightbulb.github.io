@@ -26,6 +26,7 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 ### [User](https://github.com/team-lightbulb/server/blob/master/src/main/java/edu/cnm/deepdive/lightbulb/model/entity/User.java)
 ### [Entity-Relationship-Diagram](erd.md)
 ### [DDL](https://github.com/team-lightbulb/server/blob/master/create.sql)
+### [Wireframe diagram](wireframe.md)
 
 
 
