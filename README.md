@@ -7,7 +7,6 @@ Lightbulb will be an app/program that encourages open forum discussion between u
 
 * **Jonathan Padilla** 
 * **Steven Zuniga** 
-* **Jamie Smith** 
 * **Richmond Baafi** 
 
 ## Intended Users
